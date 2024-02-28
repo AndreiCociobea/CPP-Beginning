@@ -15,6 +15,7 @@
                 "cwd": "${fileDirname}"
             },
             "problemMatcher": [
+                
                 "$msCompile"
             ],
             "group": {
